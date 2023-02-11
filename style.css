@@ -495,7 +495,7 @@ footer{
     display: flex;
     justify-content: space-between;
     height: 80px;
-    margin-bottom: 140px;
+    
 }
 footer .left{
     display: flex;
@@ -521,6 +521,7 @@ gap: 8px;
 
 
 @media (max-width: 768px) {
+    
     .desktop-nav{
         display: none;
     }
